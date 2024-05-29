@@ -4642,6 +4642,18 @@ var gear = {
       "p": "inv_jewelry_ring_40"
     },
     {
+      "name": "Signet Ring of the Bronze Dragonflight(Friendly)",
+      "hit": 1,
+      "sta": 9,
+      "agi": 19,
+      "source": "Quest",
+      "phase": "5",
+      "id": 21202,
+      "q": "4",
+      "i": "80",
+      "p": "inv_jewelry_ring_40"
+    },
+    {
       "name": "Tarnished Elven Ring",
       "hit": 1,
       "agi": 15,
