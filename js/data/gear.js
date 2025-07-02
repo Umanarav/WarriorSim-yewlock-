@@ -2318,6 +2318,19 @@ var gear = {
       "p": "inv_bracer_02"
     },
     {
+      "name": "Slashclaw Bracers",
+      "hit": 1,
+      "sta": 7,
+      "agi": 7,
+      "ac": 155,
+      "source": "LBRS",
+      "phase": 1,
+      "id": 13211,
+      "q": "4",
+      "i": "71",
+      "p": "inv_bracer_02"
+    },
+    {
       "name": "Wristguards of Vengeance",
       "crit": 1,
       "str": 24,
